@@ -1,0 +1,6 @@
+homepage: "https://amperity.com"
+documentation: "https://github.com/amperity/gtm-server-amperity-real-time#readme"
+versions:
+  # Latest version first. Each sha must be the commit that contains the template.tpl to publish.
+  - sha: 7a0525144810adcca1f822bda1f21c75f67396e3
+    changeNotes: Initial release.
